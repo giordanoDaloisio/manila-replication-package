@@ -1,0 +1,5 @@
+,fairness_method,model,stat_par,eq_odds,zero_one_loss,disp_imp,acc,hmean
+0,DEMV,logreg,0.011,-0.076,0.162,0.919,0.601,0.828
+1,GRID,logreg,-0.001,-0.019,0.108,0.866,0.48,0.769
+2,EG,logreg,-0.079,0.149,0.118,0.614,0.606,0.741
+3,NO_ONE,logreg,-0.113,0.25,0.106,0.517,0.601,0.693

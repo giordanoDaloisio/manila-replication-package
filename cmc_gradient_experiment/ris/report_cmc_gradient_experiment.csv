@@ -1,0 +1,5 @@
+,fairness_method,model,stat_par,eq_odds,zero_one_loss,disp_imp,acc,hmean
+0,GRID,gradient_class,0.14,0.078,0.093,0.63,0.933,0.767
+1,DEMV,gradient_class,0.159,0.098,0.007,0.539,0.996,0.729
+2,EG,gradient_class,0.16,0.097,0.003,0.538,0.998,0.728
+3,NO_ONE,gradient_class,0.16,0.097,0.003,0.538,0.998,0.728

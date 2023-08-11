@@ -1,0 +1,5 @@
+,fairness_method,model,stat_par,eq_odds,zero_one_loss,disp_imp,acc,hmean
+0,DEMV,svm,0.161,-0.161,0.215,0.539,0.71,0.688
+1,EG,svm,0.163,-0.186,0.251,0.539,0.711,0.673
+2,NO_ONE,svm,0.214,-0.249,0.221,0.448,0.714,0.631
+3,GRID,svm,0.334,-0.684,0.317,0.082,0.455,0.2

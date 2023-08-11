@@ -1,0 +1,14 @@
+name: base_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - fairlearn
+  - pandas
+  - python=3.9
+  - imbalanced-learn
+  - pip
+  - scikit-learn
+  - scipy
+  - pip:
+    - aif360[DisparateImpactRemover,Reductions]
