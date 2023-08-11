@@ -1,1 +1,1 @@
-# manila-replication-package
+# Manila Replication Package
